@@ -20,4 +20,4 @@ The API uses Maven as its build automation tool. Using the popular Java IDEs Int
     - If your MySQL is running on a port other than 3306, change the 3306 number at the top to your MySQL port number
 - From within your IDE, you can now run the project. The main method is in BoxinatorApiApplication. 
   - If something fails, trying running 'mvn clean' and 'mvn install' and try starting the project again
-- The API should now be running on localhost:8080
+- The API should now be running on localhost:5000
